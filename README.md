@@ -49,7 +49,7 @@ const alcysc = {
 
 ---
 
-## 🎯 Focus Areas
+## Fokus
 
 | 💻 Development | 🛡️ Cybersecurity |
 | :--- | :--- |
