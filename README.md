@@ -17,7 +17,6 @@
 
 ## 👤 About
 
-Full-stack and web developer with a strong security background. I design and ship fast, maintainable products, then test them the way an attacker would. My approach combines **white-hat ethics** with **grey-hat curiosity**: always legal, always in scope, always with responsible disclosure.
 
 ```js
 const alcysc = {
