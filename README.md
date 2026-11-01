@@ -1,95 +1,150 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif" width="520" />
+
+<!-- Premium Elegant Header Banner -->
+<img src="https://i.pinimg.com/originals/3d/80/7e/3d807e3a968600d8ce6603aeb0017163.gif" width="100%" height="200" style="object-fit: cover; border-radius: 12px; opacity: 0.9;" alt="Premium Tech Background" />
+
+<br/><br/>
+
+<!-- Refined Typing Animation (Gold & White Palette) -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&lines=A+L+C+Y+S+C;Elite+Full-Stack+Architect;Cyber+Security+Analyst+%26+Strategist;White+%26+Gray+Hat+Security+Researcher;Mastering+Global+Programming+Standards" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <i>Merging high-end web architecture with military-grade cyber security protocols.</i>
+</p>
+
+<br/>
+
+<!-- Premium Contact & Status Badges -->
+<a href="mailto:casablanca-developer.hub@keemail.me">
+  <img src="https://img.shields.io/badge/EXECUTIVE_CONTACT-casablanca--developer.hub%40keemail.me-1A1A1A?style=for-the-badge&logo=minutemailer&logoColor=D4AF37&border=D4AF37" />
+</a>
+<img src="https://img.shields.io/badge/CLEARANCE-LEVEL_9_ACTIVE-1A1A1A?style=for-the-badge&logo=shield&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/AVAILABILITY-OPEN_FOR_OPPORTUNITIES-1A1A1A?style=for-the-badge&logo=briefcase&logoColor=D4AF37" />
+
+<br/><br/>
+<hr style="border: 1px solid #333; width: 80%;" />
+<br/>
+
 </div>
 
-# ALCYSC
+## ⟡ Executive Profile
 
-### Full-Stack Developer • Cybersecurity Enthusiast • Product Builder
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3 align="left">Vision & Expertise</h3>
+      <p align="justify">
+        Saya adalah seorang <strong>Full-Stack Developer</strong> dan <strong>Spesialis Keamanan Siber (White/Gray Hat)</strong> yang merancang ekosistem digital premium. Dengan penguasaan komprehensif terhadap <strong>seluruh bahasa pemrograman modern dan fundamental</strong>, saya tidak hanya membangun aplikasi yang skalabel dan elegan, tetapi juga memastikan setiap lapisan infrastruktur kebal terhadap eksploitasi tingkat tinggi.
+      </p>
+      <p align="justify">
+        Fokus saya berada di persimpangan antara <i>high-performance engineering</i> dan <i>offensive/defensive security</i>—menghasilkan solusi teknologi yang estetik di luar dan tak tertembus di dalam.
+      </p>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <h3 align="center">Core Competencies</h3>
+      <img src="https://img.shields.io/badge/Enterprise_Architecture-1A1A1A?style=flat-square&logo=architecture&logoColor=D4AF37" /><br/>
+      <img src="https://img.shields.io/badge/Penetration_Testing-1A1A1A?style=flat-square&logo=kalilinux&logoColor=D4AF37" /><br/>
+      <img src="https://img.shields.io/badge/Zero--Day_Research-1A1A1A?style=flat-square&logo=bugbounty&logoColor=D4AF37" /><br/>
+      <img src="https://img.shields.io/badge/Polyglot_Engineering-1A1A1A?style=flat-square&logo=codeforces&logoColor=D4AF37" /><br/>
+      <img src="https://img.shields.io/badge/Cloud_Security-1A1A1A?style=flat-square&logo=amazonaws&logoColor=D4AF37" />
+    </td>
+  </tr>
+</table>
 
-I design and build secure, scalable, and elegant digital experiences — blending modern web development with strong engineering fundamentals and practical problem solving.
+<br/>
+
+## ⟡ Technical Arsenal
+
+<details open>
+<summary><b>🔹 Full-Stack & Systems Engineering</b> <i>(Click to collapse)</i></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,java,python,ts,js,asm,ruby,php,swift,kotlin,dart,csharp&perline=15" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,next,vue,angular,nodejs,express,nestjs,django,laravel,spring,tailwind,graphql,docker,kubernetes,aws&perline=15" />
+</p>
+</details>
+
+<details open>
+<summary><b>🔹 Offensive Security & Gray/White Hat Tools</b> <i>(Click to collapse)</i></summary>
+<br/>
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <b>Exploitation & Recon</b><br/>
+      • Metasploit Framework<br/>
+      • Burp Suite Pro<br/>
+      • Nmap / Masscan<br/>
+      • SQLmap & Fuzzing Tools
+    </td>
+    <td width="33%" valign="top">
+      <b>Reverse Eng. & Malware</b><br/>
+      • Ghidra & IDA Pro<br/>
+      • x86/x64 Assembly<br/>
+      • OllyDbg / x64dbg<br/>
+      • Malware Analysis
+    </td>
+    <td width="33%" valign="top">
+      <b>Defensive Hardening</b><br/>
+      • WAF Implementation<br/>
+      • SIEM (Splunk, ELK)<br/>
+      • Cryptography Auditing<br/>
+      • Zero-Trust Networks
+    </td>
+  </tr>
+</table>
+</details>
+
+<br/>
+
+## ⟡ Analytics & System Metrics
 
 <div align="center">
-  <a href="https://github.com/ALCYSC">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:casablanca-developer.hub@keemail.me">
-    <img src="https://img.shields.io/badge/Email-casablanca--developer.hub@keemail.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://portfolio.example.com">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
+
+<!-- Premium Stats using custom hex colors (Dark BG, Gold Text, Silver Icons) -->
+<table border="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=ALCYSC&show_icons=true&bg_color=0D1117&title_color=D4AF37&text_color=A1A1AA&icon_color=D4AF37&border_color=2D3748&hide_border=false&count_private=true" height="195" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALCYSC&layout=compact&bg_color=0D1117&title_color=D4AF37&text_color=A1A1AA&icon_color=D4AF37&border_color=2D3748&hide_border=false" height="195" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Premium Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ALCYSC&background=0D1117&stroke=2D3748&ring=D4AF37&fire=D4AF37&currStreakNum=A1A1AA&sideNums=A1A1AA&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=A1A1AA&hide_border=false" width="800" />
+
 </div>
 
----
+<br/>
 
-## Core Focus
+## ⟡ Security Audit Log (Interactive Simulation)
+<div align="center">
+<hr style="border: 1px solid #333; width: 50%;" />
+<p style="color: #A1A1AA; font-size: 12px;">
+<i>Architected with precision by <b>ALCYSC</b> © 2026. All systems secure.</i>
+</p>
+</div>
 
-- Full-Stack Web Development
-- Secure Application Design
-- API & Backend Architecture
-- Performance Optimization
-- Cybersecurity Awareness
-- Clean, maintainable code
+```yaml
+# ---------------------------------------------------------
+# ALCYSC Security Protocol - Automated Audit Log
+# Date       : Current Session
+# Target     : GitHub Repository Ecosystem
+# Status     : ENCRYPTED & SECURED
+# ---------------------------------------------------------
 
----
+INITIATING SCAN...
+[+] Penetration test   : PASSED (No critical CVEs detected)
+[+] Code architecture  : OPTIMIZED (O(1) time complexity achieved in core modules)
+[+] Network traffic    : ANONYMIZED (Routing through secured nodes)
+[+] Threat level       : ZERO
 
-## Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-## Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-## Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-## Database & Tools
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## Currently Building
-
-- Secure and modern web applications
-- Product-centric full-stack systems
-- Clean interfaces with strong backend architecture
-- Cybersecurity-aware engineering practices
-- Scalable solutions for real-world problems
-
----
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ALCYSC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ALCYSC&theme=tokyonight&hide_border=true" />
-
----
-
-> “Build with purpose. Secure by design. Ship with confidence.”
+> SYSTEM_READY: "Architecture meets premium standard protocols."
+> AWAITING_INPUT: _
