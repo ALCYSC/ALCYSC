@@ -60,7 +60,6 @@ const alcysc = {
 
 ---
 
-## 📊 GitHub Stats
 
 <div align="center">
 
