@@ -64,10 +64,10 @@ const alcysc = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=C9D1D9&text_color=8B949E" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ALCYSC&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALCYSC&layout=compact&hide_border=true&bg_color=0d1117&title_color=C9D1D9&text_color=8B949E" alt="Top languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=8b949e&line=c9d1d9&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ALCYSC&bg_color=0d1117&color=8b949e&line=c9d1d9&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution graph" />
 
 </div>
 
