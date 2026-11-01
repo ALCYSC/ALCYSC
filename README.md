@@ -51,7 +51,7 @@ const alcysc = {
 
 ## Fokus
 
-| 💻 Development | 🛡️ Cybersecurity |
+|  Development |  Cybersecurity |
 | :--- | :--- |
 | Full-stack web apps & REST/WebSocket APIs | Web application security & pentesting |
 | Scalable architecture & clean code | Secure code review & threat modeling |
