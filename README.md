@@ -29,7 +29,7 @@ const alcysc = {
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 My Favorite 
 
 <div align="center">
 
